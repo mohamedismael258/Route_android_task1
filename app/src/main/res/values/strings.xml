@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">android1</string>
+    <string name="post_txt">Buckle up, because change is coming to WordPress</string>
+    <string name="post_lnk">http://ublast.com/color-schemes</string>
+    <string name="like_btn">Like</string>
+    <string name="share_btn">Share</string>
+    <string name="likes">12</string>
+    <string name="profile_name">Unblast</string>
+    <string name="post_tim">2 hrs</string>
+    <string name="_1_share">1 Share</string>
 </resources>
